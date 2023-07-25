@@ -1,0 +1,17 @@
+2023-07-23 22:07:119 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (4aace06558f19af3c24a539e84e183ae)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-23 22:07:871 INFO  SelectNationalityPage :29 - Select Nationality[[ChromeDriver: chrome on windows (4aace06558f19af3c24a539e84e183ae)] -> xpath: //select[@id='response']]
+2023-07-23 22:07:936 INFO  SelectNationalityPage :34 - Select Nationality[[ChromeDriver: chrome on windows (4aace06558f19af3c24a539e84e183ae)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-23 22:07:728 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (8c899f2388c78528dc26e7f356b8ba6a)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-23 22:07:841 INFO  SelectNationalityPage :29 - Select Nationality[[ChromeDriver: chrome on windows (8c899f2388c78528dc26e7f356b8ba6a)] -> xpath: //select[@id='response']]
+2023-07-23 22:07:908 INFO  SelectNationalityPage :34 - Select Nationality[[ChromeDriver: chrome on windows (8c899f2388c78528dc26e7f356b8ba6a)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-23 23:07:609 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (d54e9c55291c7438cd5c9aae1b9fe603)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-23 23:07:791 INFO  SelectNationalityPage :29 - Select Nationality[[ChromeDriver: chrome on windows (d54e9c55291c7438cd5c9aae1b9fe603)] -> xpath: //select[@id='response']]
+2023-07-23 23:07:882 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (e9e735c3cecfc7b7e058768bc1d5884d)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-23 23:07:182 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (56ad9dd057ae966adfaa830965c0956b)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-23 23:07:378 INFO  SelectNationalityPage :29 - Select Nationality[[ChromeDriver: chrome on windows (56ad9dd057ae966adfaa830965c0956b)] -> xpath: //select[@id='response']]
+2023-07-23 23:07:475 INFO  SelectNationalityPage :34 - Select Nationality[[ChromeDriver: chrome on windows (56ad9dd057ae966adfaa830965c0956b)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-23 23:07:892 INFO  SelectNationalityPage :29 - Select NationalityProxy element for: DefaultElementLocator 'By.xpath: //select[@id='response']'
+2023-07-24 00:07:520 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (809cadebffef00da99de237c9bb9145e)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-24 00:07:715 INFO  SelectNationalityPage :29 - Select NationalityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='response-1']'
+2023-07-24 00:07:644 INFO  StartPage :24 - Click Start[[ChromeDriver: chrome on windows (b11ce4e07053d6bf1ed3a914c8e95f18)] -> xpath: //a[normalize-space()='Start now']]
+2023-07-24 00:07:812 INFO  SelectNationalityPage :29 - Select NationalityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='response-1']'
